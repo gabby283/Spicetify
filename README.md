@@ -201,3 +201,6 @@ This repository serves as the official landing page for Spicetify. The software 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Spicetify today!**
+
+---
+**Last updated:** 2026-11-07 06:47:56 UTC
