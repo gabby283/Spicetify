@@ -203,4 +203,4 @@ This repository serves as the official landing page for Spicetify. The software 
 **Get the most recent version of Spicetify today!**
 
 ---
-**Last updated:** 2026-11-12 23:09:52 UTC
+**Last updated:** 2026-11-13 04:52:48 UTC
